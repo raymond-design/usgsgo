@@ -1,0 +1,5 @@
+.idea
+*.txt
+*.test
+*_ignore
+*.code-workspace
