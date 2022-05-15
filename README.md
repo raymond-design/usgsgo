@@ -15,3 +15,7 @@ Notes
 Usage
 -------
 This client library is not complete yet. Currently, none of the web services are supported.
+
+Roadmap
+-------
+This library was open-sourced in May 2022 and will be continually updated to match the current state of USGS Water APIs. Please send prs if minor issues go unnoticed.
